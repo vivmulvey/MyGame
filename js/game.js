@@ -184,7 +184,7 @@ gameScene.create = function () {
     this.chimneyMinX = 0;
     this.chimneyXorig = 1200;
 
-    this.gameSpeed = 3;
+    this.gameSpeed = 6;
 
     //adding the chimneys
     this.chimneys = this.add.group({
